@@ -1,0 +1,11 @@
+Flask
+Flask-Bcrypt
+Flask-Login
+Flask-Mail
+Flask-SQLAlchemy
+Flask-WTF
+flask-marshmallow
+marshmallow-sqlalchemy
+email-validator
+psycopg2-binary
+click
